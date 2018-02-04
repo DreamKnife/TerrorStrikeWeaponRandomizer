@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517685467 source:c:\cbprojects\tsrandomizer\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+	<cstdlib>
+
